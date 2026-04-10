@@ -1,0 +1,7 @@
+[
+   {
+      "directory" : "/home/user/Projetos/ccstudio/m1ex01/Debug",
+      "command"   : "clang++ -I\"/opt/ccstudio/ccs/ccs_base/msp430/include\" -I\"/home/user/Projetos/ccstudio/m1ex01\" -I\"/opt/ccstudio/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430F5529__",
+      "file"      : "/home/user/Projetos/ccstudio/m1ex01/m1ex01.asm"
+   }
+]

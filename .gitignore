@@ -1,0 +1,24 @@
+# CCS build output
+Debug/
+Release/
+
+# CCS project settings (gerados automaticamente)
+.launches/
+.settings/
+.cproject
+.project
+
+# Arquivos gerados pelo compilador
+*.obj
+*.out
+*.map
+*.hex
+
+#*.asm
+
+# Configs de target (opcional manter, mas geralmente auto-gerado)
+targetConfigs/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
